@@ -1,0 +1,43 @@
+.container {
+    background-color: #dfdbdb;
+    display: flex;
+}
+.start {
+    justify-content: flex-start;
+}
+.end {
+    justify-content: flex-end;
+}
+.center {
+    justify-content: center;
+}
+.space_bet {
+    justify-content: space-between;
+}
+.space_around {
+    justify-content: space-around;
+}
+.space_even {
+    justify-content:space-evenly;
+}
+.filho {
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    margin: 5px;
+    border-radius: 5px;
+    
+}
+.azul_claro {
+    background-color: #61b1Bc;
+}
+.azul_escuro{
+    background-color: #1f2a44;
+    color: white;
+}
+.rosa {
+background-color: #ed145b;
+}
+.amarelo {
+background-color: #efb661;
+}
